@@ -1,5 +1,5 @@
 # I'm Vaidik Pandey
-Hi 👋<br>I'm Building things on the web as a full-stack developer<br><br>🧑‍💻 Currently working with MERN and learning Next.js<br>📚 Final year B.Tech student<br>💬 Ask me about React, Node, MongoDB, or Java basics<br>📫 Reach me: pandeyvaidik04@gmail.com<br><br>⚡ Fun fact: I ship more side projects than I delete (most days)
+Hi 👋<br>I'm Building things on the web as a full-stack developer<br><br>🧑‍💻 Currently working with MERN and learning Next.js and TypeScript <br>📚 Final year B.Tech student<br>💬 Ask me about React, Node, MongoDB, or Java basics and LIFE.<br>📫 Reach me: pandeyvaidik04@gmail.com<br><br>⚡ Fun fact: I ship more side projects than I delete (most days)
 
 
 ## 🌐 Socials:
