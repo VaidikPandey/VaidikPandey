@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vaidik+%F0%9F%91%8B;Full-Stack+Developer;Java+%26+Spring+Boot+Developer;MERN+Stack+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vaidik+%F0%9F%91%8B;Full-Stack+Developer;Java+%26+Spring+Boot+Enthusiast;MERN+Stack+Explorer" alt="Typing SVG" />
 
 <br/>
 
@@ -88,15 +88,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaidikPandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidikPandey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VaidikPandey&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaidikPandey&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=VaidikPandey&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaidikPandey&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VaidikPandey&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
