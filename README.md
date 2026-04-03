@@ -99,18 +99,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VaidikPandey&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VaidikPandey&color=6C63FF&style=flat-square)
